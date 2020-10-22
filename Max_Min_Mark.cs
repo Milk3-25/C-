@@ -43,7 +43,6 @@ namespace MaxMinMark
                             // loop the amount of the variable amount 
                             for (int variable = 0; variable < amount; variable++)
                             {
-                                
                                 for (int switzerland = 0; switzerland < 1; switzerland++)
                                 {
                                     // implicit concatenation and adding 1 to the variable variable
@@ -69,7 +68,6 @@ namespace MaxMinMark
                                     marks.Add(josh);
                                     }
                                 }
-
                             }
                             // setting values
                             double max = 0.00;
@@ -99,9 +97,7 @@ namespace MaxMinMark
                             // clears console
                             Console.Clear();
                         }
-                    }
-                    
-                    
+                    }   
                 }
             }
             
