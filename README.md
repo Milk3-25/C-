@@ -1,2 +1,2 @@
-# C	%23
+# C	Sharp
 This is a collection of my C# codes
